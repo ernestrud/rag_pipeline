@@ -24,6 +24,7 @@ share/python-wheels/
 .env
 .venv/
 env/
+venv/
 
 # credential files
 credentials/*
